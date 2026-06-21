@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915535839973",
+    "firebase_url": "https://farm-manager-a7a05-default-rtdb.firebaseio.com",
+    "project_id": "farm-manager-a7a05",
+    "storage_bucket": "farm-manager-a7a05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915535839973:android:abb575e96b14ed28a9ca0c",
+        "android_client_info": {
+          "package_name": "com.aistudio.farmpro.kxmpzq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915535839973-53me1geamkqe3ic358f789fkfc9hsq63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.farmpro.kxmpzq",
+            "certificate_hash": "25c9b3fe6a00a8f680f14c8f05ccc982c5c1b66b"
+          }
+        },
+        {
+          "client_id": "915535839973-h6gb5k0pme74i03n8vaop1tmgtugmes5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3DUgbxSwSBdKcW8GNsE0G8uF8kLnN0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915535839973-h6gb5k0pme74i03n8vaop1tmgtugmes5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
